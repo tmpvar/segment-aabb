@@ -1,5 +1,35 @@
 {
   "devDependencies": {
     "tape": "^4.0.0"
-  }
+  },
+  "name": "segment-aabb",
+  "description": "compute the aabb of an n-dimensional line segment",
+  "version": "0.0.0",
+  "main": "segment-aabb.js",
+  "dependencies": {
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmpvar/segment-aabb.git"
+  },
+  "keywords": [
+    "segment",
+    "aabb",
+    "geometry",
+    "n-dimensional",
+    "2d",
+    "3d",
+    "4d",
+    "5d"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/segment-aabb/issues"
+  },
+  "homepage": "https://github.com/tmpvar/segment-aabb#readme"
 }
