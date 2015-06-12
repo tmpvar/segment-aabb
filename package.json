@@ -4,7 +4,7 @@
   },
   "name": "segment-aabb",
   "description": "compute the aabb of an n-dimensional line segment",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "segment-aabb.js",
   "dependencies": {
     "tape": "^4.0.0"
